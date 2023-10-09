@@ -1,0 +1,9 @@
+Funnel_Analysis_Data/processed/funnel_cleaned.csv
+Funnel_Analysis_Data/raw/home_page_table.csv
+Funnel_Analysis_Data/raw/payment_confirmation_table.csv
+Funnel_Analysis_Data/raw/payment_page_table.csv
+Funnel_Analysis_Data/raw/search_page_table.csv
+Funnel_Analysis_Data/raw/user_table.csv
+.DS_Store
+ProductDatScience_Workspace.code-workspace
+Funnel_Analysis_Data/.DS_Store
